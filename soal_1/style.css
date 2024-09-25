@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.kotak-menu {
+    display: inline-block;
+    padding: 10px;
+    border: 2px solid #bf3ee7;
+    background-color: #e5aee9;
+}
